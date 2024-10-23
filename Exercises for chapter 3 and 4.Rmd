@@ -1,0 +1,23 @@
+---
+title: "Chapter 3 and 4"
+author: "Inkyin May"
+date: "2024-10-22"
+output: html_document
+---
+Tree Dormancy
+
+
+
+1. Put yourself in the place of a breeder who wants to calculate the temperature requirements of a newly released cultivar. Which method will you use to calculate the chilling and forcing periods? Please justify your answer.
+
+
+
+2. Which are the advantages (2) of the BBCH scale compared with earlies scales?
+
+
+
+
+3. Classify the following phenological stages of sweet cherry according to the BBCH scale:
+<div style="text-align: center;">
+![**Phenological stages of cherry**](Phenological stages of cherry.png)
+</div>
